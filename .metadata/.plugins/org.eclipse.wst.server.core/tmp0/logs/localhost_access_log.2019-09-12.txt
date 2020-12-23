@@ -1,0 +1,14 @@
+127.0.0.1 - - [12/Sep/2019:14:44:23 +0600] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:14:45:00 +0600] "GET /BookStoreWebsite/admin/list_users HTTP/1.1" 200 2731
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:14:45:00 +0600] "GET /BookStoreWebsite/images/BookstoreAdminLogo.png HTTP/1.1" 200 30729
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:14:45:07 +0600] "GET /BookStoreWebsite/admin/user_form.jsp HTTP/1.1" 200 795
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:20:52:01 +0600] "GET /BookStoreWebsite/admin/user_form.jsp HTTP/1.1" 200 907
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:20:52:01 +0600] "GET /BookStoreWebsite/images/BookstoreAdminLogo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:20:55:26 +0600] "GET /BookStoreWebsite/admin/user_form.jsp HTTP/1.1" 200 1170
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:20:55:26 +0600] "GET /BookStoreWebsite/images/BookstoreAdminLogo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:20:55:28 +0600] "GET /BookStoreWebsite/admin/user_form.jsp HTTP/1.1" 200 1170
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:20:55:28 +0600] "GET /BookStoreWebsite/images/BookstoreAdminLogo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:20:58:08 +0600] "GET /BookStoreWebsite/admin/user_form.jsp HTTP/1.1" 200 1328
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:20:58:08 +0600] "GET /BookStoreWebsite/images/BookstoreAdminLogo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:21:00:06 +0600] "GET /BookStoreWebsite/admin/user_form.jsp HTTP/1.1" 200 1358
+0:0:0:0:0:0:0:1 - - [12/Sep/2019:21:00:06 +0600] "GET /BookStoreWebsite/images/BookstoreAdminLogo.png HTTP/1.1" 304 -

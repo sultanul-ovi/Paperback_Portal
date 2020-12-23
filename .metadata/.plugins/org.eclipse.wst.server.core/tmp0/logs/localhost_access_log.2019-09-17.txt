@@ -1,0 +1,5 @@
+127.0.0.1 - - [17/Sep/2019:07:03:45 +0600] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [17/Sep/2019:07:05:10 +0600] "GET /BookStoreWebsite/admin/user_form.jsp HTTP/1.1" 200 1358
+0:0:0:0:0:0:0:1 - - [17/Sep/2019:07:05:10 +0600] "GET /BookStoreWebsite/images/BookstoreAdminLogo.png HTTP/1.1" 200 30729
+0:0:0:0:0:0:0:1 - - [17/Sep/2019:07:05:49 +0600] "GET /BookStoreWebsite/admin/list_users HTTP/1.1" 200 2731
+0:0:0:0:0:0:0:1 - - [17/Sep/2019:07:05:54 +0600] "GET /BookStoreWebsite/admin/user_form.jsp HTTP/1.1" 200 1358

@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+D:\ACADEMIC\6TH SEMISTER\BookStoreProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3555644095.index
+\BookStoreWebsite\src
+D:\ACADEMIC\6TH SEMISTER\BookStoreProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2029521923.index
+\BookStoreWebsite\src
+D:\ACADEMIC\6TH SEMISTER\BookStoreProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2905324804.index
+\BookStoreWebsite\src
+D:\ACADEMIC\6TH SEMISTER\BookStoreProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4146415184.index
+\BookStoreWebsite\src
