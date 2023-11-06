@@ -43,6 +43,11 @@ System Architecture
    <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/System_Architecture.png"  width="850" height="420" />
 </h1>
 
+Application Architecture
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Application_Architecture.png"  width="420" height="420" />
+</h1>
+
 
 ## Getting Started
 
