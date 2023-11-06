@@ -38,11 +38,10 @@ Hibernate, a widely recognized ORM framework, facilitates efficient data access 
 - **Deployment**: Packages and deploys the application using the Tomcat server.
 
 ## Diagrams
+System Architecture
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/System_Architecture.png"  width="1700" height="850" />
+   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/System_Architecture.png"  width="850" height="420" />
 </h1>
-
-<h4 align="center">System Architecture</h4>
 
 
 ## Getting Started
