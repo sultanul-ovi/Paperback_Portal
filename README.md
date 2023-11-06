@@ -48,6 +48,26 @@ Application Architecture
    <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Application_Architecure.png"  width="420" height="420" />
 </h1>
 
+Overview of Use Cases
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Overview_Use_Cases.png"  width="850" height="420" />
+</h1>
+
+Database Table Design
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Database%2BTable%2BDesign.png"  width="600" height="420" />
+</h1>
+
+DAO Class Diagram
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/DAO%2BClass%2BDiagram.png"  width="850" height="420" />
+</h1>
+
+Domain Model Class Diagram
+<h1 align="center">
+   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Domain%2BModel%2BClass%2BDiagram.png"  width="420" height="420" />
+</h1>
+
 
 ## Getting Started
 
